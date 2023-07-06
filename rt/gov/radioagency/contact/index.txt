@@ -1,0 +1,22 @@
+
+#banner
+image=https://media.discordapp.net/attachments/1073334915476770910/1126519759140306944/msedge_G7cxiRKbLI.png
+text=Contact Us
+#navigation
+color=-16777216
+item-link-1=gov.rt/radioagency
+item-label-1=Home
+#paragraph
+text= You may write to the Broadcast Commission via the following address:
+#paragraph
+text= Broadcast Commission
+#paragraph
+text= Hillview
+#paragraph
+text= Radiotopia
+#paragraph
+text= Our office hours are between 9am and 5pm Monday to Friday.
+#footer
+title=Broadcast Commission
+sub-title=Copyright (C) 2023
+home-page=gov.rt/radioagency
