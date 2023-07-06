@@ -1,0 +1,24 @@
+#banner
+image=https://cdn.discordapp.com/attachments/1014213905200979968/1126574515858714774/2023-07-06_20.55.13.png
+text=&aWelcome to Kolosgrad website!
+#navigation
+item-link-1=gov.rt
+item-label-1=RoB website
+item-link-2=towns.rt
+item-label-2=RoB Towns
+
+#paragraph
+text=The Kolosgrad is a small town on the North of RoB. It's not cold at all there as it might sound. We have our own Television and Radio which is broadcasted not only for Kolosgrad, but for the entire RoB! Image on the right shows the entrance to Kolosgrad. There's a long RoB flag and "KOLOSgrad" text under the flag. We love RoB!
+padding=10
+image=https://cdn.discordapp.com/attachments/1014213905200979968/1126580498538434702/5235241.png
+#divider
+size=1
+#paragraph
+text=The Kolosgrad Monument also called "Warrior Statue". We beleive that this monument protects us, and our beloved country from bad things. The image on the right shows it. We like to drop coins on it so the monument will continue protecting us! This is our tradition, and we like to keep it alive. The monument was built when the town was founded.
+padding=10
+image=https://cdn.discordapp.com/attachments/1014213905200979968/1126581431645249736/uuuuu_hlp.png
+
+#footer
+title=Kolosgrad website
+sub-title=(Copyleft) 2023
+home-page=kolosgrad.rt
