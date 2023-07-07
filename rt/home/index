@@ -2,7 +2,7 @@
 image=https://i.imgur.com/rIzqukr.png
 text=&f&lWelcome to Broadnet
 #navigation
-item-link-1=welcome.official
+item-link-1=home.rt
 item-label-1=Home
 item-icon-1=HOME
 item-link-2=home.rt/websites
