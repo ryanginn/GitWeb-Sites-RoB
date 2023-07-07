@@ -3,21 +3,21 @@ image=https://i.imgur.com/tC7ZKpE.png
 text=&f&lOfficial Index
 
 #navigation
-item-link-1=welcome.official
+item-link-1=home.rt
 item-label-1=Home
 item-icon-1=HOME
-item-link-2=welcome.official/websites
+item-link-2=home.rt/websites
 item-label-2=Official Index
 item-icon-2=CONTACTS
 item-link-3=submit.official
 item-label-3=Submit Website
 item-icon-3=EDIT
-item-link-4=welcome.official/report
+item-link-4=home.rt/report
 item-label-4=Report
 item-icon-4=ERROR
 
 #paragraph
-text=Welcome to the &e&lOfficial Index&r. Here you will find a list of all the websites currently available on GitWeb. This list is manually generated so new websites may not show up straight away.
+text=Welcome to the &e&lOfficial Index&r. Here you will find a list of all the websites currently available on Broadnet. This list is manually generated so new websites may not show up straight away.
 padding=10
 
 #header
@@ -28,9 +28,9 @@ padding=10
 
 #paragraph
 padding=10
-text=&emodelcreator.app\n&ecraysadventure.craft\n&esupermarioworld.craft\n&ethegreatwiki.official\n&ewelcome.official\n&eminenews.web\n&epotion.wiki
+text=&egov.rt\n&eradiotopia.rt\n&ekolosgrad.rt\n&echicken.rt\n&emodelcreator.app\n&ecraysadventure.craft\n&esupermarioworld.craft\n&ethegreatwiki.official\n&ewelcome.official\n&eminenews.web\n&epotion.wiki
 
 #footer
-title=GitWeb
-sub-title=Copyright (c) MrCrayfish
-home-page=welcome.official
+title=Broadnet Index
+sub-title=Copyright (c) Broadnet
+home-page=home.rt
