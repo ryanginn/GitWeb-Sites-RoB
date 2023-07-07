@@ -1,0 +1,25 @@
+
+#banner
+image=https://cdn.discordapp.com/attachments/1056614901042388994/1126697619914240044/ChickenBanner.png
+text=Chicken Food and Broadcast CO
+
+#divider
+size=2
+color=-830208
+
+#navigation
+item-link-1=chicken.rt
+item-label-1=Home
+item-link-2=null
+item-label-2=Where to Order?
+item-link-3=null
+item-label-3=Our History!
+
+#paragraph
+text=Hello to the Offical Chicken Food and Broadcast Co Website, we serve home grown chicken all around the RoB and even the Moon!
+image=https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Crispy-Fried-Chicken_EXPS_TOHJJ22_6445_DR%20_02_03_11b.jpg
+
+#paragraph
+text=unlike the OTHER chicken place that starts with a "K" we keep our recipe open source and under the GNU!
+
+
