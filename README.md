@@ -28,3 +28,5 @@ This is the repository containing the community of user created sites (referred 
 - .craft - Standard multiple use case suffix!
 
 - .web - Standard multiple use case suffix!
+
+- .rt - Republic of Broadcasters' official TLD - please contact a official for permission to create a website with this TLD.
