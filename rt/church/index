@@ -12,7 +12,6 @@ item-icon-1=TELEVISION
 item-link-2=church.rt/radio
 item-label-2=Parish Radio
 item-icon-2=MUSIC
-
 #paragraph
 text=&6Reflection
 #paragraph
@@ -21,6 +20,45 @@ text=Be Lord Jesus, a bright flame before me,\nA guiding star above me,\nA smoot
 size=6
 color=-16384000
 #header
-text=Welcome to Our Parish
+text=&6Welcome to Our Parish
 scale=2
 align=left
+#paragraph
+text=I would like to take a minute to welcome you to our website, which we want to make an interesting and worthwhile location for both parishoners and visitors to keep up to date with what's going on in our parish.
+#divider
+size=6
+color=-15990784
+#header
+text=&2Mass Information
+scale=2
+align=left
+
+#paragraph
+text=Mass Times - Saturday at 9pm, Sunday at 4pm.
+#paragraph
+text=Funerals, Anniversaries and Weddings - No masses scheduled.
+#paragraph
+text=Special Masses - All Saints Day (Wed 1st Nov 23 @ 9pm)
+#divider
+size=6
+color=-16777216
+
+#header
+text=&6Parish Newsletter
+scale=2
+align=left
+
+#paragraph
+text=Parish Newsletter Page 1
+image=https://media.discordapp.net/attachments/1027307434181672970/1140251708476362832/19thSunday-Page1.PNG
+#paragraph
+text=Parish Newsletter Page 2
+image=https://media.discordapp.net/attachments/1027307434181672970/1140251708782563328/19thSunday-Page2.PNG
+#footer
+title=Sandhill Parish
+sub-title=Telephone 402-34
+home-page=church.rt
+color=-9622784
+
+
+
