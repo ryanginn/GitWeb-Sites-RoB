@@ -1,0 +1,26 @@
+
+#banner
+image=https://cdn.discordapp.com/attachments/998735573730738296/1140279511280275547/image.png
+text=NameSPLAT!
+
+#navigation
+item-link-1=namesplat.rt/cart
+item-label-1=Shopping Cart
+item-icon-1=SHOPPING_CART
+item-link-2=namesplat.rt/login
+item-label-2=Log In
+item-icon-2=USER
+item-link-3=namesplat.rt/register
+item-label-3=Register Domain
+item-icon-3=SHARE
+
+#divider
+size=6
+color=-16384000
+
+#header
+text=The &aBEST&r way to register domains in Raditopia!
+scale=1
+
+#paragraph
+text=NameSPLAT! is coming soon.
