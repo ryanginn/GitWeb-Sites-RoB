@@ -1,0 +1,29 @@
+
+#banner
+image=https://media.discordapp.net/attachments/1084098342340018278/1140276254055071774/mpb_gradient.png?width=1202&height=676
+text=Mayo Public Broadcasting
+#divider
+size=6
+color=-16384000
+
+#paragraph
+text=Welcome to the online face of MPB, the national broadcaster of the RoB.
+
+#paragraph
+text=We are currently working on a website for MPB, if you would like to learn more about the broadcaster - write to us at
+#paragraph
+text= Mayo Public Broadcasting
+#paragraph
+text= Flat 102
+#paragraph
+text= Sandhill
+#paragraph
+text= Republic of Broadcasters
+
+#footer
+title=Mayo Public Broadcasting
+sub-title=&fA member of Omeshashika's Broadcast Team (OBT)
+home-page=mpb.rt
+color=-419804
+
+
