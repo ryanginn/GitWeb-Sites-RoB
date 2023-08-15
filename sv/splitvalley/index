@@ -1,4 +1,18 @@
-&4Split Valley is closed due to possible bomb threat.
-Jesus loves you!
-#banner
+
+#divider
+size=6
+color=-15990784
+#paragraph
+text=&nSplit Valley is currently closed due to a possible bomb threat.
+#divider
+size=6
+color=-16777216
+#paragraph
+text=Welcome to Split Valley On-line!\n This! Web Site allows you to learn more about the Split Valley Community.. Online! \n Please note that all calls are charged at standard network rate!
 image=https://cdn.discordapp.com/attachments/1114688186380197948/1141089248913657906/democratic_socailist_PURPLE.png
+
+#footer
+title=Split Valley - Jesus loves you!
+sub-title=Copyright 2023
+home-page=splitvalley.sv
+color=-4849409
