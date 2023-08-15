@@ -1,24 +1,18 @@
-#header
-text=democrattic peoples rebubpic fro broascastersd webstie
+
+#banner
+image=https://media.discordapp.net/attachments/1062189196078493769/1141034421600911460/DEMOCRATIC.png?width=1440&height=198
+text=
 scale=1
-padding=4
-align=right
+#header
+text=&eВласть людям! / Power to the people!
+scale=1
+
 #paragraph
-text=welcum to td e democtra  polepe repibljue of broosfcsaters website blyad
-padding=69
-image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg/2560px-Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg.png
-#banner
-text=penis
-image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg/2560px-Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg.png
+text=Добро пожаловать на интернет-портал телерадиовещателей Народно-Демократической Республики (DPB)
 #paragraph
-text=dee PEE beedpb dpb dpb dpb dpb we are good rob bad dpb dpb dpb dpb dpb we are very cool rob bad we are communist not capitalist like sinister rob aaaaaaaaaaaaaa we made to make build server political server woooo obey obey obey obey obey obey obey obey obey obey obey obey obey obey
-padding=69
-image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg/2560px-Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg.png
-#banner
-image=https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg/2560px-Flag_of_the_Communist_Party_of_Greece_%281940s%29.svg.png
-text=jkvbkbljvbvjklbkbfbkfdbdfblksdlbbvhrvbjbvjbabdsbi; penis penis sex gay sex penis penis butt
-#footer
-title=dee pe be websit
-sub-title=copyup 1353
-home-page=gov.dpb
-color=-65536
+text=Welcome to the internet portal of the Democratic People's Republic of Broadcasters (DPB)
+
+#paragraph
+text=Наша прекрасная страна базируется в Сталинграде, столице ДПБ.
+#paragraph
+text=Our beautiful country is based in Stalingrad, the capital of DPB.
