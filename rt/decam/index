@@ -1,6 +1,7 @@
 #banner
 image=https://cdn.discordapp.com/attachments/1014213905200979968/1141372136678768750/QT0rtJl.png
 text=DECAM Foundation
+
 #navigation
 item-link-1=gov.rt
 item-label-1=RoB website
@@ -8,20 +9,26 @@ item-link-2=gov.rt/radioagency
 item-label-2=Radio agency
 item-link-3=decam.rt/specifications
 item-label-3=DECAM Specifications
+
 #paragraph
 text=Our mission is to provide best Digital TV and Radio broadcasting enviroment. Our latest version (DECAM-V) has the best technologies in it and very robust signal. DECAM has technologies like HEVC and VVC (soon), xHE-AAC, HDR and 3D sound.
+
 #divider
 size=5
+
 #header
 text=Latest news
 scale=2
 align=left
+
 #title
 text=DECAM-V release!
 scale=1
 align=left
+
 #paragraph
 text=We are proud to present the next generation TV standard! Watch TV on your phone. DECAM-V can be sent over LTE bands!
+
 #footer
 title=DECAM Foundation.
 sub-title=Making broadcasting better since 2023.
