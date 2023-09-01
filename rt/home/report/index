@@ -17,10 +17,10 @@ item-label-4=Report
 item-icon-4=ERROR
 
 #paragraph
-text=Have you discovered a website that is broken, contains obscene material or copyrighted content? Please report the offending website at &ehttps://github.com/MrCrayfish/GitWeb-Sites/issues&r and our moderators will deal with it accordingly.
+text=Have you discovered a website that is broken, contains obscene material or copyrighted content? Please report the offending website to namesplat.rt or our Discord server and our moderators will deal with it accordingly.
 padding=10
 
 #footer
-title=GitWeb
-sub-title=Copyright (c) MrCrayfish
+title=Broadnet
+sub-title=Copyright (c) Broadnet
 home-page=welcome.official
