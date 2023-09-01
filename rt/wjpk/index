@@ -1,0 +1,53 @@
+
+#banner
+image=https://cdn.discordapp.com/attachments/1047769705361973298/1147242166452748451/DEMOCRATIC_2.png
+
+#header
+text=&nWelcome to the WJPK Website!
+scale=2
+
+#paragraph
+text=WJPK is a not for profit community organisation, generously supported by an extensive group of volunteers, and the towns of Glenwood and Split Valley.
+
+#header
+text=&3About Us
+scale=1
+
+#paragraph
+text=WJPK Media Limited - owned by JohnPykett, has a license from the Broadcast Commission of the Republic of Broadcasters to provide a community radio service to Glenwood and the surrounding areas.
+
+#header
+text=&3Where to find us?
+
+#paragraph
+text=WJPK has studios in the town of Glenwood, you are more than welcome to stop by and say hello - it is visible from the town centre and the road coming into Glenwood.
+
+#header
+text=&3Tune into WJPK
+
+#paragraph
+text=WJPK provides 2 services, Radio and Television.\nRadio can be found on 87.7 MHz, with the callsign of WJPK-FM, 3 HD radio channels, WJPK-FM, WJPK Non Stop and WJPK Country are also broadcast on this frequency - however a compatible set is required.
+#paragraph
+text=Television from WJPK can be found on UHF channel 94 in Glenwood, Split Valley and Sandhill.
+
+#header
+text=&3Write a to WJPK Media
+
+#paragraph
+text=WJPK can be contacted via post at the following address:
+#paragraph
+text=WJPK Media
+#paragraph
+text=Glenwood
+#paragraph
+text=Republic of Broadcasters
+
+#footer
+title=WJPK Media
+sub-title=Funded by RoB Government
+home-page=wjpk.rt
+color=-7600385
+
+
+
+
