@@ -1,0 +1,30 @@
+
+#banner
+image=https://cdn.discordapp.com/attachments/1047769705361973298/1147242166452748451/DEMOCRATIC_2.png
+#navigation
+color=-16777216
+item-link-1=wjpk.rt
+item-label-1=WJPK Home
+item-icon-1=HELP
+item-link-2=wjpk.rt/HD
+item-label-2=HD Radio
+item-icon-2=HEADPHONES
+item-link-3=wjpk.rt/DAB
+item-label-3=DAB+
+item-icon-3=HEADPHONES
+item-link-4=wjpk.rt/FM
+item-icon-4=HEADPHONES
+item-label-4=FM
+#header
+text=&nWJPK on DAB
+scale=2
+#paragraph
+text=WJPK stations are carried on PSB-DAB3 Split Valley, PSB-DAB3 Glenwood and Sandhill local DAB, all services are carried in &lDAB+.
+image=https://media.discordapp.net/attachments/902590104181276672/1150841353937354834/msedge_hafvz8b53i.png
+#paragraph
+text=&6&oPlease note that DAB reception may be weak or nonexistant in certain areas.
+#footer
+title=WJPK Media
+sub-title=Funded by RoB Government
+home-page=wjpk.rt
+color=-7600385
