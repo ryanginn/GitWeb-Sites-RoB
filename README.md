@@ -21,3 +21,7 @@ This is the repository containing the community of user created sites (referred 
 - .sv - TLD of (West) Split Valley
 
 - .dpb - TLD of DPB
+
+- .sh - TLD of Sandhill
+
+- .obt - TLD for OBT stations, requires ID verification to register - NameSPLAT customers only.
