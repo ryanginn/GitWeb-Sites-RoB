@@ -1,7 +1,6 @@
 
 #banner
 image=https://cdn.discordapp.com/attachments/1047769705361973298/1147242166452748451/DEMOCRATIC_2.png
-
 #navigation
 color=-16777216
 item-link-1=wjpk.rt
@@ -16,6 +15,9 @@ item-icon-3=HEADPHONES
 item-link-4=wjpk.rt/FM
 item-icon-4=HEADPHONES
 item-label-4=FM
+
+#paragraph
+text=&a&nWJPK Media has rebranded to RTJP Media in line with the callsign changes required by law. Please visit RTJP.rt to see our new website.
 
 #header
 text=&nWelcome to the WJPK Website!

@@ -1,0 +1,54 @@
+
+#banner
+image=https://cdn.discordapp.com/attachments/902590104181276672/1185646582411038812/DEMOCRATIC_3.png
+
+#navigation
+color=-16777216
+item-link-1=rtjp.rt
+item-label-1=RTJP Home
+item-icon-1=HELP
+item-link-2=rtjp.rt/HD
+item-label-2=HD Radio
+item-icon-2=HEADPHONES
+item-link-3=rtjp.rt/DAB
+item-label-3=DAB+
+item-icon-3=HEADPHONES
+item-link-4=rtjp.rt/FM
+item-icon-4=HEADPHONES
+item-label-4=FM
+
+#header
+text=&nWelcome to the RTJP Website!
+scale=2
+#paragraph
+text=RTJP is a not for profit community organisation, generously supported by an extensive group of volunteers, and the towns of Glenwood and Split Valley.
+#header
+text=&3About Us
+scale=1
+#paragraph
+text=RTJP Media Limited - owned by JohnPykett, has a license from the Broadcast Commission of the Republic of Broadcasters to provide a community radio service to Glenwood and the surrounding areas.
+#header
+text=&3Where to find us?
+#paragraph
+text=RTJP has studios in the town of Glenwood, you are more than welcome to stop by and say hello - it is visible from the town centre and the road coming into Glenwood.
+#header
+text=&3Tune into RTJP
+#paragraph
+text=RTJP provides 2 services, Radio and Television.\nRadio can be found on 87.7 MHz, with the callsign of RTJP-FM, 3 HD radio channels, RTJP-FM, RTJP Non Stop and RTJP Country are also broadcast on this frequency - however a compatible DECAM-F set is required.
+#paragraph
+text=Television from RTJP can be found on UHF channel 94 in Glenwood, Split Valley and Sandhill.
+#header
+text=&3Write a to RTJP Media
+#paragraph
+text=RTJP can be contacted via post at the following address:
+#paragraph
+text=RTJP Media
+#paragraph
+text=Glenwood
+#paragraph
+text=Republic of Broadcasters
+#footer
+title=RTJP Media
+sub-title=Funded by RoB Government
+home-page=rtjp.rt
+color=-7600385

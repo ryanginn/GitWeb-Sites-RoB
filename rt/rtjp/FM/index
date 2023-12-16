@@ -1,0 +1,30 @@
+
+#banner
+image=https://cdn.discordapp.com/attachments/902590104181276672/1185646582411038812/DEMOCRATIC_3.png
+#navigation
+color=-16777216
+item-link-1=rtjp.rt
+item-label-1=Home
+item-icon-1=HELP
+item-link-2=rtjp.rt/HD
+item-label-2=HD Radio
+item-icon-2=HEADPHONES
+item-link-3=rtjp.rt/DAB
+item-label-3=DAB+
+item-icon-3=HEADPHONES
+item-link-4=rtjp.rt/FM
+item-icon-4=HEADPHONES
+item-label-4=FM
+#header
+text=&nRTJP-FM
+scale=2
+#paragraph
+text=RTJP broadcasts an analogue FM service on 87.7 MHz in Glenwood (50W ERP) and Sandhill (500W ERP) under the callsign RTJP-FM.
+image=https://cdn.discordapp.com/attachments/902590104181276672/1150839361236107355/WJPK-Coverage.png
+#paragraph
+text=&6&oPlease note that FM reception may be staticy or nonexistant in certain areas.
+#footer
+title=RTJP Media
+sub-title=Funded by RoB Government
+home-page=rtjp.rt
+color=-7600385
