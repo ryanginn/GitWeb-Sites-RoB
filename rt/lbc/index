@@ -1,0 +1,21 @@
+
+#header
+text=&6LBC
+align=center
+
+#header
+text=&f&oLocal Broadcasting Corporation
+align=center
+
+#header
+text=&e&nPlease select your region below to access local content:
+#paragraph
+padding=10
+text=&esandhill-lbc.rt\n&esplitvalley-lbc.rt\n&edamven-lbc.rt\n&eglenwoodfairhaven-lbc.rt
+
+#footer
+title=LBC
+sub-title=Funded by Broadcast Commission
+home-page=lbc.rt
+color=-16777216
+
