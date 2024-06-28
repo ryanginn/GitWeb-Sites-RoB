@@ -16,12 +16,10 @@ This is the repository containing the community of user created sites (referred 
 
 - .web - Standard multiple use case suffix!
 
-- .rt - Republic of Broadcasters' official TLD - please contact a official for permission to create a website with this TLD.
-
-- .sv - TLD of (West) Split Valley
+- .rt - Telonia's official TLD - please contact a official for permission to create a website with this TLD.
 
 - .dpb - TLD of DPB
 
 - .sh - TLD of Sandhill
 
-- .obt - TLD for OBT stations, requires ID verification to register - NameSPLAT customers only.
+- .obt - TLD for OBT stations, requires ID verification to register
