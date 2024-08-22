@@ -9,7 +9,7 @@ This is the repository containing the community of user created sites (referred 
     
 3. The images directory is reserved for the storing of index banner images on all root suffixes.
 
-4. Indexes should primarily be in English, Dutch, Spanish or Russian.
+4. Indexes should primarily be in English, Irish, Dutch, Spanish or Russian.
     
 
 ## Index Domain Suffixes
@@ -22,4 +22,8 @@ This is the repository containing the community of user created sites (referred 
 
 - .sh - TLD of Sandhill
 
-- .obt - TLD for OBT stations, requires ID verification to register
+- .obt - TLD for OBT stations, requires Telonian ID verification to register
+
+- .fo - Foroyaland
+
+- .oa - OSR
