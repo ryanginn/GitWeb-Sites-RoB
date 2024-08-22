@@ -1,5 +1,5 @@
 #banner
-image=https://i.imgur.com/rIzqukr.png
+image=https://sx.nafc.link/u/K9Ef56.png
 text=&f&lWelcome to Broadnet
 #navigation
 item-link-1=home.rt
@@ -31,9 +31,9 @@ scale=2
 align=left
 padding=10
 #paragraph
-text=&e&lBroadnet&r was originally created by MinecraftDoodler (under the name GitWeb). It is now updated and managed by Ryan G, Freecorn1854 and omeshashika.
+text=&e&lBroadnet&r was originally created by MinecraftDoodler (under the name GitWeb). It is now updated and managed by Ryan G and weizkule :3
 padding=10
 #footer
 title=Broadnet
-sub-title=Copyright (c) Republic of Broadcasters
+sub-title=Copyright (c) Government of Telonia
 home-page=home.rt
