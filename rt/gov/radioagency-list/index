@@ -1,5 +1,5 @@
 #banner
-image=https://media.discordapp.net/attachments/1073334915476770910/1126519759140306944/msedge_G7cxiRKbLI.png
+image=https://sx.nafc.link/u/K9Ef56.png
 text=FM and TV Frequencies in use
 #navigation
 color=-16777216
@@ -12,22 +12,7 @@ item-label-3=Radio Agency
 item-link-4=gov.rt/radioagency-list
 item-label-4=Radio and TV Frequencies
 #paragraph
-text=Please see below images showing the latest Radio and TV Frequencies list.
-#paragraph
-text=Analogue FM services in the RoB
-image=https://media.discordapp.net/attachments/1014213905200979968/1127287585912401940/image.png
-#paragraph
-text=Analogue FM radio in Sandhill
-image=https://media.discordapp.net/attachments/1014213905200979968/1127287586432503889/image.png
-
-#paragraph
-text=Digital DAB+ Radio in the RoB
-image=https://media.discordapp.net/attachments/1014213905200979968/1127287586210201671/image.png
-
-#paragraph
-text=Digital and Analogue Television in the RoB and Sandhill
-image=https://media.discordapp.net/attachments/1014213905200979968/1127287586675765398/image.png
-
+text=Please check the Discord server.
 #footer
 title=Broadcast Commission
 sub-title=Copyright (C) 2023
