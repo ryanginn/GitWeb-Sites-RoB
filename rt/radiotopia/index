@@ -1,15 +1,14 @@
 
 #banner
-image=https://media.discordapp.net/attachments/1014213905200979968/1126589474550337536/2023-07-06_21.52.05.png
+image=https://sx.nafc.link/u/K9Ef56.png
 text=Radiotopia
 #navigation
 color=-16777216
 item-link-1=gov.rt/
-item-label-1=RoB Government
+item-label-1=Telonian Government
 #paragraph
-text=Radiotopia, the capital city of the Republic of Broadcasters is a vibrant and modern city, with varied architecture. The city features tons of accomodation and things to do, and very close to the Radiotopia international Airport. There are many towns and things to do nearby, such as the village of Kolosgrad or Mullaghcleevaun.
-image=https://media.discordapp.net/attachments/1014213905200979968/1126591818784591922/Radiotopia_the_capital_city_of_the_Republic_of_Broadcasters_is_a_vibrant_and_modern_city_with_varied_architecture._The_city_features_tons_of_accomodation_and_things_to_do_and_very_close_to_the_Radiotopia_interna.png
+text=Radiotopia, the capital city of the Republic of Telonia is a vibrant and modern city, with varied architecture. The city features tons of accomodation and things to do, and very close to the Radiotopia international Airport. There are many towns and things to do nearby, such as the village of Kolosgrad or Mullaghcleevaun.
 #footer
 title=Radiotopia website
-sub-title=Copyright (C) 2023 - Funded by the Art's Council of the RoB
+sub-title=Copyright (C) 2023 - Funded by the Art's Council of the Telonia
 home-page=radiotopia.rt
