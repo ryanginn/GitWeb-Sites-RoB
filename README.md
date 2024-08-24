@@ -27,3 +27,5 @@ This is the repository containing the community of user created sites (referred 
 - .fo - Foroyaland
 
 - .oa - OSR
+
+- .ct Chinese Telonia
