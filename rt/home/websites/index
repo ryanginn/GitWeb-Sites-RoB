@@ -28,7 +28,7 @@ padding=10
 
 #paragraph
 padding=10
-text=&egov.rt\n&empb.rt\n&eradiotopia.rt\n&edfm.rt\n&egov.dpb\n&ekolosgrad.rt\n&ertjp.rt\n&echurch.rt\n&esarsfields.rt\n&echicken.rt\n&emodelcreator.app\n&edecam.rt\n&ermtv.rt\n&eobt.rt
+text=&egov.rt\n&empb.rt\n&eradiotopia.rt\n&edfm.rt\n&egov.dpb\n&ekolosgrad.rt\n&ertjp.rt\n&echurch.rt\n&esarsfields.rt\n&echicken.rt\n&emodelcreator.app\n&edecam.rt\n&ermtv.rt\n&eobt.rt\n&egov.ct\n&eembassyoftelonia.ct
 
 #footer
 title=Broadnet Index
