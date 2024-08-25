@@ -6,7 +6,12 @@ text=&lGeekstore Online
 #header
 text=Please select your local Geekstore location to see products on-sale.
 #header
-text=Geekstore Radiotopia: &egeekstore.rt/radiotopia
+text=Geekstore Radiotopia:
+
+#paragraph
+padding=10
+text=&egeekstore.rt/radiotopia
+
 #header
 text=Geekstore Sandhill: &eComing soon
 
