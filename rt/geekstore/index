@@ -1,0 +1,17 @@
+
+#banner
+image=https://sx.nafc.link/r/9Hajzg.png
+#header
+text=&lGeekstore Online
+#header
+text=Please select your local Geekstore location to see products on-sale.
+#header
+text=Geekstore Radiotopia: &egeekstore.rt/radiotopia
+#header
+text=Geekstore Sandhill: &eComing soon
+
+#footer
+title=Geekstore
+sub-title=&9Store for hobby broadcasters!
+home-page=geekstore.rt
+color=-28148
