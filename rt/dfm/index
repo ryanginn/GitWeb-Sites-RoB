@@ -3,12 +3,12 @@
 image=https://sx.nafc.link/u/ozzO4g.png
 #header
 text=&rDFM Dance Radio - &lTelonia
-
 #paragraph
 text=Dance FM (shortened to DFM) is a Dance Music station broadcasting in Telonia via FM and DAB+ Digital Radio
-
 #header
 text=You can listen to DFM on the following frequencies:
+#paragraph
+text=&eAnalog FM
 #paragraph
 text=88.8 Omigrad
 #paragraph
@@ -29,7 +29,16 @@ text=103.8 Radiotopia, Sandhill, Kursk, Hartfelden, Wien, The Hague
 text=105.6 Novosibirsk
 #paragraph
 text=107.6 Kursk
-
+#paragraph
+text=&cDAB+ Digital Radio
+#paragraph
+text=Nationwide (PSB5) 9D Radiotopia/Sandhill | 11A Nationwide | 11C Kleipiek
+#paragraph
+text=Novosibirsk DAB+ 10C
+#paragraph
+text=Omigrad Local DAB+ 10C
+#paragraph
+text=Radiotopia Mux A 12A
 #footer
 title=DFM Dance Radio
 sub-title=Радио DFM
