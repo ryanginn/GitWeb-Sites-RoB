@@ -30,7 +30,7 @@ text=105.6 Novosibirsk
 #paragraph
 text=107.6 Kursk
 #paragraph
-text=&cDAB+ Digital Radio
+text=&eDAB+ Digital Radio
 #paragraph
 text=Nationwide (PSB5) 9D Radiotopia/Sandhill | 11A Nationwide | 11C Kleipiek
 #paragraph
@@ -39,6 +39,10 @@ text=Novosibirsk DAB+ 10C
 text=Omigrad Local DAB+ 10C
 #paragraph
 text=Radiotopia Mux A 12A
+#paragraph
+text=&eDECAM-SR Satellite Radio
+#paragraph
+text=Channel 51 (Subcarrier, 11,627 MHz)
 #footer
 title=DFM Dance Radio
 sub-title=Радио DFM
