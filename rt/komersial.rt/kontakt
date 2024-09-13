@@ -1,0 +1,24 @@
+#banner
+image=https://gcdnb.pbrd.co/images/DMbmIgBx4prW.png?o=1
+#navigation
+item-link-1=home
+item-label-1=Домашняя страница
+item-icon-1=HOME
+item-link-2=listen
+item-label-2=Слушай
+item-icon-2=PLAY
+item-link-3=freq
+item-label-3=ФМ-частоты
+item-icon-3=LOCATION
+item-link-4=kontakt
+item-label-4=Связаться с нами!
+item-icon-4=MAIL
+#header
+text=Связаться с нами!
+scale=2
+#paragraph
+text=Использование Outlook: weizkule@outlook.com
+#paragraph
+text=Использование Endermail: weizkule@endermail.com
+#paragraph
+text=ТОЛЬКО НА РУССКОМ, АНГЛИЙСКОМ ИЛИ ФРАНЦУЗСКОМ ЯЗЫКАХ
