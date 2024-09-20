@@ -1,0 +1,25 @@
+#banner
+image=https://sx.nafc.link/u/bDNZJG.png
+
+#navigation
+item-link-1=voronezh.rt
+item-label-1=Сайт города Воронежа
+item-icon-1=COMMUNITY
+item-link-2=kontakt
+item-label-2=Свяжитесь с нами
+item-icon-2=MAIL
+item-link-3=gov.rt
+item-label-3=Правительство Телонии
+item-icon-3=HOME
+item-link-4=novosti
+item-label-4=Новости
+item-icon-4=MAP
+
+#paragraph
+text=Здесь вы найдете последние новости мегаполиса Воронеж.
+#divider
+size=22
+#footer
+title=Воронеж - Один город, несколько людей
+sub-title=Copyright 2024. Воронежский городской штаб, Воронежская область, Телония.
+home-page=gov.rt
